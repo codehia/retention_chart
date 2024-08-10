@@ -1,0 +1,11 @@
+{
+  "reportMissingImports": true,
+  "reportUnusedFunction": "warning",
+  "reportUnusedImport": "warning",
+  "reportDuplicateImport": "warning",
+  "reportUnnecessaryCast": "warning",
+  "reportUndefinedVariable": "error",
+  "strictParameterNoneValue": true,
+  "reportOptionalMemberAccess": false,
+  "typeCheckingMode": "off"
+}
